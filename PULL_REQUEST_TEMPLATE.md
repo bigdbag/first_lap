@@ -3,18 +3,19 @@
 ## Description
 <!--- Describe your changes in detail -->
 
+
 ## Motivation and Context
 <!--- Link to JIRA Ticket here by appending your ticket number to this URL -->
 https://argodigital.atlassian.net/browse/WRP-
 
-<!--- Why is this change required? What problem does it solve? -->
 
 ## How Has This Been Tested?
 <!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
+
 
 ## Screenshots (if appropriate):
+<!--- Use ![Text](URL) markdown to insert external images -->
+
 
 ## Types of changes
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
